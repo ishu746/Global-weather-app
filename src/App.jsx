@@ -22,7 +22,7 @@ const App = () => {
   const [error, setError] = useState(null);
 
 
-  // const API_KEY = "5f4c8e4c65a31ac5cc7522ba21ceefc5"
+  
   const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
 
 
