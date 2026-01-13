@@ -18,13 +18,13 @@ A modern, responsive weather application built with React and Vite. Get real-tim
 - **Vite**: Build tool for fast development and optimized production builds
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **OpenWeatherMap API**: Weather data provider
-- **ESLint**: Code linting for consistent code quality
+
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ishu746/weather-app.git
    cd weather-app
    ```
 
@@ -53,12 +53,6 @@ A modern, responsive weather application built with React and Vite. Get real-tim
 4. Toggle between Celsius and Fahrenheit using the unit switcher
 5. Enjoy the dynamic weather-themed background
 
-## Scripts
-
-- `npm run dev` - Start the development server
-- `npm run build` - Build the app for production
-- `npm run preview` - Preview the production build locally
-- `npm run lint` - Run ESLint for code quality checks
 
 ## Project Structure
 
@@ -82,20 +76,6 @@ weather-app/
 ├── README.md
 └── vite.config.js
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
